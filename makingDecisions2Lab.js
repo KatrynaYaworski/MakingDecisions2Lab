@@ -107,7 +107,7 @@ console.log(someNum);
 //(Hint: how can you make sure that your code works for exactly 7 elements? What index do you use to get the 7th element?)
 
 
-if (myFavoriteNumbers.length < 6) {
+if (myFavoriteNumbers.length < 7) {
   console.log('There are not enough elements in this array')
 } else {
   someNum = myFavoriteNumbers[6];
